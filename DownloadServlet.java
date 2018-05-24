@@ -1,4 +1,4 @@
-package com.atguigu.upload.servlet;
+package com.gwz.upload.servlet;
 
 import java.io.FileInputStream;
 import java.io.IOException;
